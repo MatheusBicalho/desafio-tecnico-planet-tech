@@ -42,6 +42,8 @@ npm install
 # 5. Inicie o projeto frontend
 npm start
 
+# 6. Iniciar testes no caminho planet-tech-chat\frontend>
+npm run test
 ```
 
 O aplicativo será aberto em http://localhost:3000.

@@ -1,4 +1,4 @@
-// /frontend/src/context/AppContext.js - CÓDIGO FINAL E COMPLETO
+// /frontend/src/context/AppContext.js
 import React, { createContext, useState, useEffect } from 'react';
 import * as api from '../services/api';
 
